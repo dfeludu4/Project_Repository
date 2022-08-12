@@ -1,9 +1,7 @@
-print(2)
-print(2+200)
-print("hello everyone")
-print("This is our first python class")
+# msg = "Hello World" 
+# print(msg)
 
-a = 2
-
-if a == 2
-    print("a is 2")
+first_name = 'dijala'
+last_name = 'feludu'
+full_name = first_name + ' ' + last_name
+print(full_name)
